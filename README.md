@@ -9,11 +9,11 @@ Our method can remove copyrighted materials (e.g., style, objects) from pretrain
 ``` python trace_attn_layer.py --og_prompt <Insert prompt containing the visual concept (e.g., van gogh style)> --prompt <Insert prompt containing the target concept (e.g., painting)>```
 
 
-###### Script for editing the layer 
+###### Script for editing the layers in diffusion models 
 ``` Coming soon! ```
 
 
-###### Script for editing neurons
+###### Script for editing neurons in diffusion models
 ``` Coming soon! ```
 
 
