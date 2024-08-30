@@ -1,5 +1,4 @@
 # LocoGen
-Localization of Knowledge in Text-to-Image Models and Using LocoEdit to Edit the Knowledge. 
 
 Our method can remove copyrighted materials (e.g., style, objects) from pretrained Stable Diffusion models and also update them with newer facts (e.g., President of a country). 
 
