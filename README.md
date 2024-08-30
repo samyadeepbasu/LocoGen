@@ -22,6 +22,7 @@ If you use this code for your research, please cite our paper.
       eprint={2405.01008},
       archivePrefix={arXiv},
       primaryClass={cs.CV},
-      url={https://arxiv.org/abs/2405.01008}, 
+      url={https://arxiv.org/abs/2405.01008},
+}
 
 ```
