@@ -5,11 +5,11 @@ Our method can remove copyrighted materials (e.g., style, objects) from pretrain
 #### Implementation of ICML 2024 Paper: "On Mechanistic Localization in Text-to-Image Generative Models" : https://arxiv.org/abs/2405.01008
 
 ###### Script for tracing the concept in the cross-attention layers 
-``` python trace_attn_layer.py --og_prompt <Insert prompt containing the visual concept (e.g., van gogh style)> --prompt <Insert prompt containing the target concept (e.g., painting)>```
+```python trace_attn_layer.py --og_prompt <Insert prompt containing the visual concept (e.g., van gogh style)> --prompt <Insert prompt containing the target concept (e.g., painting)>```
 
 
 ###### Script for editing the layers in diffusion models 
-``` Coming soon! ```
+```python loco_edit.py --artist <Insert artist name> --start_loc <Insert the location where knowledge is present> --reg_key <Hyperparameter for key matrix> --reg_value <Hyperparameter for value matrix>```
 
 
 ###### Script for editing neurons in diffusion models
