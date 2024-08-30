@@ -1,4 +1,4 @@
-# On Mechanistic Knowledge Localization for Text-to-Image Generative Models
+## On Mechanistic Knowledge Localization for Text-to-Image Generative Models
 
 Our method can remove copyrighted materials (e.g., style, objects) from pretrained Stable Diffusion models and also update them with newer facts (e.g., President of a country). 
 
