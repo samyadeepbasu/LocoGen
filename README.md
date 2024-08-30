@@ -9,7 +9,7 @@ Our method can remove copyrighted materials (e.g., style, objects) from pretrain
 
 
 ###### Script for editing the layers in diffusion models 
-```python loco_edit.py --artist <Insert artist name> --start_loc <Insert the location where knowledge is present> --reg_key <Hyperparameter for key matrix> --reg_value <Hyperparameter for value matrix>```
+```python loco_edit.py --artist <Insert artist name> --start_loc <Insert the cross-attn matrix location where knowledge is present> --reg_key <Hyperparameter for key matrix> --reg_value <Hyperparameter for value matrix>```
 
 
 ###### Script for editing neurons in diffusion models
