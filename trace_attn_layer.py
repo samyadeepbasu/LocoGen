@@ -23,7 +23,7 @@ import pickle
 import os 
 
 # Define the Components of the Diffusion Model 
-auth_token = "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"
+auth_token = "INSERT OWN TOKEN"
 LOW_RESOURCE = False 
 NUM_DIFFUSION_STEPS = 50
 GUIDANCE_SCALE = 7.5
