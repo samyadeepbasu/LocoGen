@@ -17,7 +17,6 @@ import abc
 import argparse 
 import tqdm 
 from PIL import Image  
-import nethook_diffusion_sdxl_modified
 #import open_clip
 import pickle 
 import os 
