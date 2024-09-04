@@ -1,6 +1,7 @@
 ## On Mechanistic Knowledge Localization in Text-to-Image Generative Models
 
 Our method can remove copyrighted materials (e.g., style, objects) from pretrained Stable Diffusion models and also update them with newer facts (e.g., President of a country). 
+<img width="967" alt="Screen Shot 2024-04-10 at 6 15 44 PM" src="https://github.com/user-attachments/assets/6f33d0d4-9c60-4bae-9465-6b0dcdeca304">
 
 #### Implementation of ICML 2024 Paper: "On Mechanistic Localization in Text-to-Image Generative Models" : https://arxiv.org/abs/2405.01008
 
