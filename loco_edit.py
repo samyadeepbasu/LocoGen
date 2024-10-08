@@ -27,7 +27,7 @@ from torch import autocast
 
 
 # Auth token
-auth_token = "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"
+auth_token = "" # Insert your token
 LOW_RESOURCE = False 
 NUM_DIFFUSION_STEPS = 50
 GUIDANCE_SCALE = 7.5
